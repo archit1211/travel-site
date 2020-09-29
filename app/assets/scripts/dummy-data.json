@@ -1,6 +1,8 @@
 {
     "commits" : [
-        "first commit"
-        "f1"
+        "first commit",
+        "f1",
+        "f2",
+        "f3"
     ]
-}
+} 
